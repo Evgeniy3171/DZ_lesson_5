@@ -1,0 +1,48 @@
+body {
+    background-color: blanchedalmond;
+    margin-right: 255px;
+}
+h2, h3, h4 {
+    text-align: center;
+    color: rgb(30, 107, 55);
+}
+img {
+    border-radius: 25px;
+    width: 100%;
+}
+span {
+    font-weight: bold;
+}
+li a {
+    color: white;
+    font-size: 14px;
+}
+.italic {
+    font-style: italic;
+}
+.underground {
+    text-decoration: underline;
+}
+.not {
+    text-decoration: line-through;
+}
+a {
+    font-weight: bold;
+    color: rgb(30, 107, 55);
+}p {
+    color: rgb(139, 139, 126);
+    text-align: justify;
+}
+aside {
+    background-image: url("../img/image4.jpg");
+    border-radius: 20px;
+    width: 235px;
+    height: 215px;
+    position: fixed;
+    right: 3px;
+    top: 5px;
+    margin: 0;
+}
+aside ul {
+    padding-left: 30px;
+}
